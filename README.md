@@ -5,7 +5,7 @@ COVID-19 Analysis, Visualization, Comparison and Predictions
 Instructions:
 
 Download all the files.
-Open your Jupyter-notebook and upload the covid-19.ipyn file in your jupyter notebook as well as datasets given in this repository.
+Open your Jupyter-notebook and upload the covid-19.ipynb file in your jupyter notebook as well as datasets given in this repository.
 Simply set the path of datasets in notebook acc.to your directory.
 
 And just run the cells by pressing shift+enter at the same time in your keyboard.
